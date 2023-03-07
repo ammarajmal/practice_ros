@@ -1,0 +1,6 @@
+devel_space: /home/agcam/practice_ros/devel
+install: false
+install_space: /home/agcam/practice_ros/install
+profile: default
+source_space: /home/agcam/practice_ros/src
+workspace: /home/agcam/practice_ros

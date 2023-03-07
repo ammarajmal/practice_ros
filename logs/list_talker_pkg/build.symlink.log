@@ -1,0 +1,3 @@
+Symlinking /home/agcam/practice_ros/devel/lib/pkgconfig/list_talker_pkg.pc
+Symlinking /home/agcam/practice_ros/devel/share/list_talker_pkg/cmake/list_talker_pkgConfig-version.cmake
+Symlinking /home/agcam/practice_ros/devel/share/list_talker_pkg/cmake/list_talker_pkgConfig.cmake

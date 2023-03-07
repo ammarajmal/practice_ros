@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/list_talker_pkg/lib/pkgconfig/list_talker_pkg.pc

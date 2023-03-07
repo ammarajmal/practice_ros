@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/list_talker_pkg/share/list_talker_pkg/cmake/list_talker_pkgConfig-version.cmake
