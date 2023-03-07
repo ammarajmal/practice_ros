@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/agcam/practice_ros/build/devel/setup.sh

@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/my_pkg/lib/pkgconfig/my_pkg.pc
