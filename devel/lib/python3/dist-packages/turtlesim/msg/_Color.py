@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/turtlesim/lib/python3/dist-packages/turtlesim/msg/_Color.py

@@ -1,0 +1,2 @@
+ros_tutorials/ros_tutorials
+/home/agcam/practice_ros/devel/.private/ros_tutorials/cmake.lock /home/agcam/practice_ros/devel/./cmake.lock

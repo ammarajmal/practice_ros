@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/rospy_tutorials/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake

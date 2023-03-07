@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/rospy_tutorials/lib/pkgconfig/rospy_tutorials.pc

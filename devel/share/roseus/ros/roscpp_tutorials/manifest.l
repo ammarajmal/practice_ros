@@ -1,0 +1,1 @@
+/home/agcam/practice_ros/devel/.private/roscpp_tutorials/share/roseus/ros/roscpp_tutorials/manifest.l
